@@ -12,5 +12,5 @@ pip install pronouncing
 ```
 
 ### Authors
-* Luke Baird (CoderDojo member)
+* [Luke Baird](https://github.com/lukebaird) (CoderDojo member)
 * [Craig Steele](https://github.com/Craig88)
